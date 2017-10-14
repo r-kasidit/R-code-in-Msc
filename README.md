@@ -1,1 +1,1 @@
-# Population dynamics of black-bearded tomb bat
+# Population dynamics of Black-bearded tomb bat
