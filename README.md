@@ -1,2 +1,4 @@
-# Population dynamics of Black-bearded tomb bat
-  It is part of my Master thesis
+# Collections of random projects in R
+- a
+- b
+- c
